@@ -1,0 +1,52 @@
+/* h1 {
+    color: red;
+    text-align: center;
+} */
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+/* p {
+    background-color: darkslategray;
+    color: antiquewhite;
+    font-size: larger;
+    text-align: center;
+} */
+
+.bold-text {
+    font-weight: bolder;
+    color: black;
+}
+
+.hero-text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4em;
+    text-transform: uppercase;
+    color: red;
+    text-shadow: 2px 1.5px #292929;
+    -webkit-text-stroke-color: yellow;
+    -webkit-text-stroke-width: 1px;
+}
+
+.hero-image {
+    max-width: 150px;
+}
+
+.hero-main {
+    max-width: 300px;
+}
+
+#marvel_logo {
+    max-width: 300px;
+    
+}
+
